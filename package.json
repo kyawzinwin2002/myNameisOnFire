@@ -1,0 +1,22 @@
+{
+  "name": "mynameisonfire",
+  "version": "1.0.0",
+  "description": "test for Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyawzinwin2002/myNameisOnFire.git"
+  },
+  "keywords": [
+    "mynameisonfire"
+  ],
+  "author": "\"Kyaw Zin Win\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyawzinwin2002/myNameisOnFire/issues"
+  },
+  "homepage": "https://github.com/kyawzinwin2002/myNameisOnFire#readme"
+}
